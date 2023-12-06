@@ -1,6 +1,6 @@
 // getting all required data
 let container = document.querySelector(".container");
-let form = document.getElementById("form");
+let form = document.getElementById("survey-form");
 let submit = document.getElementById("submit");
 let food = document.querySelectorAll(".food");
 let table = document.getElementById("table");
