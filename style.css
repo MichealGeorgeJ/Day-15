@@ -121,7 +121,7 @@ input[type="number"]::-webkit-inner-spin-button {
   border-width: 0 3px;
 }
 .form-group.select select {
-  width: 225px;
+  width: 300px;
   background-color: rgba(255,255,255,0.50);
   background-blend-mode: lighten;
   color: rgb(101, 98, 98);
