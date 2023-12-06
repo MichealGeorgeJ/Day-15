@@ -29,7 +29,7 @@ p {
   border-radius: 5px;
   user-select: none;
 }
-.form {
+.survey-form {
   display: flex;
   flex-direction: column;
   padding: 10px 10px;
